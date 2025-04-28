@@ -1,6 +1,6 @@
 ---
-title: 'spaced repetition tracker'
-description: 'A full-stack app to track spaced repetition sessions.'
+title: 'UX/UI Designer Portfolio'
+description: 'A personal portfolio built on React and Tailwind.'
 date: 'Mar 18 2024'
 demoURL: 'https://astro-sphere-demo.vercel.app'
 repoURL: 'https://github.com/markhorn-dev/astro-sphere'

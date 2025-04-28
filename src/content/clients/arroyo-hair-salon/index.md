@@ -1,6 +1,6 @@
 ---
-title: 'Bourbon Society'
-description: 'A web app for finding personalized tv & film recommendations.'
+title: 'Arroyo Hair Salon'
+description: 'A business landing page built with HTML and CSS.'
 date: 'Mar 18 2024'
 demoURL: 'https://astro-sphere-demo.vercel.app'
 repoURL: 'https://github.com/markhorn-dev/astro-sphere'

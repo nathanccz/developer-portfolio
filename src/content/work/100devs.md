@@ -5,4 +5,7 @@ dateStart: '09/10/2022'
 dateEnd: '11/27/2023'
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Collaborated with a team of developers to build modern and responsive web
+applications using best practices. Built semantically structured, full-stack
+internal applications for the agency. Applied agile methodologies like SCRUM for
+project management.
